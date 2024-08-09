@@ -1,4 +1,4 @@
-_(Original Script by [Knaxel](https://github.com/knaxel))_
+_Original Script by [Knaxel](https://github.com/knaxel)_
 
 I changed it a bit to allow for map hiding on **two** scenes (for multi-streaming on Tiktok and Twitch at the same time).
 
